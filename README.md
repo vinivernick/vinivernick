@@ -2,7 +2,7 @@
 -##meu email de contato e vinicius.vernick@escola.pr.gov.br
 -###Eu estou interessado em aprender a programar novas linguagens.
 -####Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
-- 📫 How to reach me ...
+
 
 <!---
 vinivernick/vinivernick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
